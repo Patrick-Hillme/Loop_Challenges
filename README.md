@@ -1,0 +1,1 @@
+This assignment consists of 5 challenges for looping. There is a comment above each challenge that states what the loop was supposed to do. 
